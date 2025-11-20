@@ -13,13 +13,12 @@ The dashboard highlights his performance across **formats, years**, and overall 
 ---
 
 ## 🖼️ Dashboard Screenshots  
-<img width="1354" height="761" alt="Screenshot 2025-11-20 153919" src="https://github.com/user-attachments/assets/8c9a8cc5-0061-4633-b4fe-f40f984bc571" />
 
-<img width="1355" height="763" alt="Screenshot 2025-11-20 154004" src="https://github.com/user-attachments/assets/0dd787e5-bbaa-4909-b078-48643aeca112" />
+![Rohit Sharma Career Statistics Analysis](https://github.com/user-attachments/assets/b413df53-5bc7-487f-a110-297d44c0c78c)
 
+<img width="1354" height="761" alt="Screenshot 2025-11-20 153919" src="https://github.com/user-attachments/assets/8c9a8cc5-0061-4633-b4fe-f40f984bc571" />  
 
-
-
+<img width="1355" height="763" alt="Screenshot 2025-11-20 154004" src="https://github.com/user-attachments/assets/0dd787e5-bbaa-4909-b078-48643aeca112" />  
 
 ---
 
