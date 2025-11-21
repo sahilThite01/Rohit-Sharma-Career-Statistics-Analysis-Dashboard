@@ -140,7 +140,7 @@ A solid portfolio project demonstrating **Power BI, data modeling, and sports an
 
 ---
 
-# Contact
+# 📬 Contact
 
 - **LinkedIn:** [<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/7f83a5c7-d664-41c4-8d3b-81522ba5e4de" />](https://www.linkedin.com/in/sahil-thite-2582a9231/)  
 - **GitHub:** *[<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/5dccb824-84f2-4f39-bbb4-9accff21662d" />
