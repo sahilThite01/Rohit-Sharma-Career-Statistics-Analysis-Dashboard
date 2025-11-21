@@ -5,14 +5,14 @@ The dashboard highlights his performance across **formats, years**, and overall 
 
 ---
 
-# 📁 Project Files
+# Project Files
 
 - **Power BI Dashboard (.pbix)**
 - **Cleaned Dataset (ODI, T20I, Test)**
 
 ---
 
-## 🖼️ Dashboard Screenshots  
+## Dashboard Screenshots  
 
 ![Rohit Sharma Career Statistics Analysis](https://github.com/user-attachments/assets/b413df53-5bc7-487f-a110-297d44c0c78c)
 
@@ -22,7 +22,7 @@ The dashboard highlights his performance across **formats, years**, and overall 
 
 ---
 
-## 📽️ Dashboard Preview  
+## Dashboard Preview  
 
 
 https://github.com/user-attachments/assets/c4466271-c183-4704-bd97-efe8093a55b0
@@ -32,7 +32,7 @@ https://github.com/user-attachments/assets/c4466271-c183-4704-bd97-efe8093a55b0
 
 ---
 
-# 🏗️ Tech Stack
+# Tech Stack
 
 | Category | Tools |
 |----------|-------|
@@ -43,7 +43,7 @@ https://github.com/user-attachments/assets/c4466271-c183-4704-bd97-efe8093a55b0
 
 ---
 
-# 💡 Key Insights
+# Key Insights
 
 - Strong ODI performance with high averages  
 - T20I strike-rate growth after 2016    
@@ -53,7 +53,7 @@ https://github.com/user-attachments/assets/c4466271-c183-4704-bd97-efe8093a55b0
 
 ---
 
-# 🚀 Project Overview
+# Project Overview
 
 This dashboard analyzes:
 
@@ -70,7 +70,7 @@ This dashboard analyzes:
 
 ---
 
-# 🧹 Data Cleaning & Preparation
+# Data Cleaning & Preparation
 
 **Steps Performed:**
 
@@ -81,7 +81,7 @@ This dashboard analyzes:
 
 ---
 
-# 🗄️ Data Model
+# Data Model
 
 **Key Fields:**
 
@@ -95,30 +95,30 @@ This dashboard analyzes:
 
 ---
 
-# 📊 Dashboard Pages
+# Dashboard Pages
 
-### 1️⃣ Career Overview  
+### Career Overview  
 - Total Runs, Matches, Avg, SR  
 - Format summary  
 - Yearly progression  
 
-### 2️⃣ Format Analysis  
+### Format Analysis  
 - ODI/Test/T20I comparison  
 - Boundary %, Strike Rate trends   
 
-### 3️⃣ Trends  
+### Trends  
 - Yearly Runs  
 - Yearly Strike Rate  
 - Century timeline  
 
-### 4️⃣ Milestones & Match Impact  
+### Milestones & Match Impact  
 - 50/100 distribution  
 - Win vs loss contributions  
 - Impact scoring  
 
 ---
 
-# 📌 How to Use
+# How to Use
 
 1. Download repository  
 2. Open the `.pbix` file in Power BI Desktop  
@@ -128,7 +128,7 @@ This dashboard analyzes:
 
 ---
 
-# 🎯 Conclusion
+# Conclusion
 
 This project showcases a **complete analytical breakdown** of Rohit Sharma’s career:
 
@@ -140,7 +140,7 @@ A solid portfolio project demonstrating **Power BI, data modeling, and sports an
 
 ---
 
-# 📬 Contact
+# Contact
 
 - **LinkedIn:** [<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/7f83a5c7-d664-41c4-8d3b-81522ba5e4de" />](https://www.linkedin.com/in/sahil-thite-2582a9231/)  
 - **GitHub:** *[<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/5dccb824-84f2-4f39-bbb4-9accff21662d" />
